@@ -1,3 +1,5 @@
+## Game and Knowledge Chatbot
+
 ## Objective of this Bot
   This bot contains three different sections.
   - In the first section the user can play a guessing number game by giving lower and upper ranges of numbers as the input.
@@ -13,4 +15,4 @@
       
 ## Youtube link of demo video for this Bot
   # link:
-  https://www.youtube.com/watch?v=L_25cyJ5hpQ&feature=youtu.be
+  https://youtu.be/Jjg4FTSgghA
